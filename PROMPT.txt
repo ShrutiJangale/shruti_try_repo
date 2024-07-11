@@ -1,0 +1,15 @@
+{
+    "is running normal": "State the Plant Status Analysis - Is running normal? Please provide only a simple statement indicating whether the plant is running normally or not. Do not include any additional details or explanations.",
+    "Other logs count":"Find out the number of logs that belong to the Others category",
+    "Daily Routine Count": "Count the number of distinct daily routine logs in the following text. Return only the total count of the logs.Also give a very brief summary regarding the logs that belong to daily routine category",
+    "Sample Support Count":"Count the number of logs that belong to the category Sample support in the following text. Return only the total count.Also do not split the log into different assets ",
+    "House keeping Count": "Count the number of logs that contain information about cleaning and painting tasks respectively.",
+    "Find assets":"Please extract the assets mentioned in the provided text, examples of assets are as AAB15 SX, APK002 and also Given the following maintenance activity logs, please identify the entries that correspond to equipment breakdowns and provide the total count of these breakdowns. A breakdown is indicated by activities such as 'emergency repair','permit not received','fixed issue,' or 'replaced broken' components. ",
+    "operations count": "Count the number of  logs that belong to the Operations category the following text. Return only the total count of the logs.",
+    "inspection count":"Find out the count of logs that belong to the Inspection Category",
+    "Material handling summary":"Identify and extract logs that mention material handling activities, including 'material shifting', 'scaffolding', 'stock', 'empty', 'spilled', or 'modified' from the provided text.",
+    "Electrical isolation summary":"Count and list the equipment and systems that were successfully isolated and de-energized for maintenance, repair, and replacement activities in the refinery."
+}
+
+
+
